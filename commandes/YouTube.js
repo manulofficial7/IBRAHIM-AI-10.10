@@ -36,7 +36,7 @@ france({
 
 
 
-*_Made by Ibrahim Adams._*`
+*_Made by Manul Official._*`
        }
 
       
@@ -109,7 +109,7 @@ france({
 
 
 
-*Made by Ibrahim Adams*\n\n`
+*Made by Manul Official*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
